@@ -1,5 +1,5 @@
 # opencartEbazarPost
-این کد برای ماژول پست پیشتاز opencart قابل استفاده می باشد
-با استفاده از این کد و جایگزین کردن آن با فایل flat.php
-شما می توانید هزینه ارسال را از طریق سایت http://ebazar.post.ir/ محاسبه کرده و نمایش دهید
-برای استفاده نیاز به عضویت در سایت http://ebazar.post.ir/ می باشد
+This code can be used for the leading opencart post module
+Use this code and replace it with a flat.php file
+You can calculate and display the shipping cost through the site http://ebazar.post.ir/
+To use, you need to join the site http://ebazar.post.ir/ 
